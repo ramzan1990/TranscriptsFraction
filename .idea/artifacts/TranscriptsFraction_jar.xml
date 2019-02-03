@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TranscriptsFraction:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TranscriptsFraction_jar</output-path>
+    <root id="archive" name="TranscriptsFraction.jar">
+      <element id="module-output" name="TranscriptsFraction" />
+    </root>
+  </artifact>
+</component>
